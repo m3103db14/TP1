@@ -13,7 +13,7 @@ il faut récupérer le programme dans le chapitre du livre.
 * recuperer le programme dans un editeur
 * exécuter 
 
-**** python
+*** python
 toto= "tata"
 i=1
 ***

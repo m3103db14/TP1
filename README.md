@@ -8,10 +8,10 @@ créé sans pb, tout va bien .
 
 il faut récupérer le programme dans le chapitre du livre.
 
--récuperer de PDF
--chercher la page
--recuperer le programme dans un editeur 
--exécuter 
+-récuperer de PDF.
+-chercher la page.
+-recuperer le programme dans un editeur .
+-exécuter .
 
     python
 toto= "tata"
